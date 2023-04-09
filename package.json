@@ -1,0 +1,16 @@
+{
+  "name": "cs-frontend",
+  "version": "1.0.0",
+  "description": "CS in frontend course homework",
+  "main": "./dist/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ekaterina Shumskaya",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-typescript": "^6.0.0-alpha.1",
+    "typescript": "^5.0.4"
+  }
+}
