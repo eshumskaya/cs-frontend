@@ -1,7 +1,7 @@
 export default class BitHelper {
-    arr: any[];
+    arr: Uint8Array;
 
-    constructor(arr){
+    constructor(arr: Uint8Array){
         this.arr = arr;
     }
 
